@@ -1,3 +1,4 @@
+#Se introduc trei date de forma număr curent elev, punctaj. Afişaţi numărul elevului cu cel mai mare punctaj.
 e1=int(input("nr. elev"))
 e2=int(input("nr. elev"))
 e3=int(input("nr. elev"))
