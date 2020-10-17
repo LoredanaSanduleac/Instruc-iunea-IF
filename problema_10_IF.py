@@ -13,4 +13,4 @@ if (i>l):
 if (l>i):
     print ("curcanul Clapon a primit cu", l-i ,"boabe mai mult decat fiecare gaina")
 if (l==i):
-    print ("egalitate")
+    print (l,"egalitate")
